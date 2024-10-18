@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeffry Barquero</h1>
 <h3 align="center">A passionate software engineer from Costa Rica</h3>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **React Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JeffreyB04](https://github.com/JeffreyB04)
 
