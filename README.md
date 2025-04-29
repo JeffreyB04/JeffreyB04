@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeffreybt2001@hotmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jeffrey-barquero-0425521b3](www.linkedin.com/in/jeffrey-barquero-0425521b3)
+- 📄 Know about my experiences [www.linkedin.com/in/jeffrey-barquero-0425521b3](www.linkedin.com/in/jeffrey-barquero-0425521b3) (https://g.dev/jeffreybt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
